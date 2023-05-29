@@ -4,17 +4,11 @@
 <h3 align="center">Advocating for Angular in Kenya</h3>
 
 <p align="center">
-   <a href="https://youtube.com/cerberodev" target="_blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cerberodev" width="48px" height="48px" />
+   <a href="https://youtube.com/angularkenya" target="_blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Angular Kenya" width="48px" height="48px" />
   </a>
-  <a href="https://twitter.com/cerberodev" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cerberodev" width="48px" height="48px" />
-  </a>
-  <a href="https://fb.com/cerberodev" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cerberodev" width="48px" height="48px" />
-  </a>
-  <a href="https://instagram.com/cerberodev" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cerberodev" width="48px" height="48px" />
+  <a href="https://twitter.com/angular_kenya" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Angular Kenya" width="48px" height="48px" />
   </a>
 </p>
 
